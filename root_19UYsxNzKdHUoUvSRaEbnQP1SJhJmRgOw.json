@@ -48,5 +48,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qD211Hb5XwFxrszzBBe5EUYJerh.jpg",
     "released": "2023-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive:195Dcr6fVnGQUW_LP_rboYL-KGgqdbjvr",
+    "type": "movie",
+    "name": "Good Fortune",
+    "poster": "https://image.tmdb.org/t/p/w500/rywxUbd4zvHiRP7nOHeDzuQSLIZ.jpg",
+    "description": "A well-meaning but rather inept angel named Gabriel meddles in the lives of a struggling gig worker and a wealthy capitalist.",
+    "background": "https://image.tmdb.org/t/p/w1280/nkxtuK4alXlGC87FRNDfAZJIFiB.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.0"
   }
 ]
