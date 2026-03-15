@@ -78,5 +78,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/w8L2oVjsSRZdZ1Wcszot9cKZMRO.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive:1daX-BpS27LjX5hdN4PkgOX5rBomw3cXj",
+    "type": "movie",
+    "name": "The Comeback",
+    "poster": "https://image.tmdb.org/t/p/w500/iEt3xNDng7mYhIMGWdkJxrVFkx3.jpg",
+    "description": "A singer holes up at a sinister estate to write new songs for his act.  His ex-wife is brutally murdered, and the killer may be stalking him next.",
+    "background": "https://image.tmdb.org/t/p/w1280/6xAtxr27vW8M0Vbniv6klS3ke1R.jpg",
+    "released": "1978-01-01",
+    "imdbRating": "5.6"
   }
 ]
