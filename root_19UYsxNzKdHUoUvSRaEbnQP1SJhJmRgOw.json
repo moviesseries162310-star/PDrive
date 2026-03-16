@@ -118,5 +118,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/jliuY8wmHTSB6WtpZUXAUF547t4.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive-folder:1J2nmE7jvrmlm8aPMcu7U-yL1MW7vB0ji",
+    "type": "movie",
+    "name": "Siren's Kiss",
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "description": "Ace insurance investigator Cha Woo-seok hunts a fraud ring tied to mysterious deaths and becomes dangerously entangled with Han Seol-ah, a flawless art auctioneer whose lovers all seem to die. As attraction and suspicion blur, he must uncover whether she’s a killer or a victim, before the truth costs him his life.",
+    "background": "https://image.tmdb.org/t/p/w1280/kgnukvQ1YKotz734ACQxDTvDCGe.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "5.8"
   }
 ]
