@@ -158,5 +158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/5d1sQtAKsbVjdUuzXWoh2vKtyy7.jpg",
     "released": "2023-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive-folder:1EZKzOJDt_1rLBL59NWZX5JdOGoCRWp7c",
+    "type": "movie",
+    "name": "Classroom of the Elite",
+    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg",
+    "description": "Kiyotaka Ayanokouji enrolls at the prestigious Tokyo Koudo Ikusei Academy, but is assigned to Class 1-D, where students with behavioral problems are housed. The school awards points equivalent to 100,000 yen per month and allows unusual freedom in classes, masking a more complex system.",
+    "background": "https://image.tmdb.org/t/p/w1280/c2sl2dLlyFFeb18pJtOpBD8cidr.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "8.4"
   }
 ]
