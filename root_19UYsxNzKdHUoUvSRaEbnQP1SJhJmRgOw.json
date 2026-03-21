@@ -170,13 +170,13 @@
     "imdbRating": "8.4"
   },
   {
-    "id": "gdrive:1iByrTwx8QQQEGQNKmY1i6qat7xIzhAbr",
+    "id": "gdrive-folder:15aYObnideyVOIg5SksDshGX2mbviFnKd",
     "type": "movie",
-    "name": "Peaky Blinders: The Immortal Man",
-    "poster": "https://image.tmdb.org/t/p/w500/gRMalasZEzsZi4w2VFuYusfSfqf.jpg",
-    "description": "After his estranged son gets embroiled in a Nazi plot, self-exiled gangster Tommy Shelby must return to Birmingham to save his family — and his nation.",
-    "background": "https://image.tmdb.org/t/p/w1280/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
-    "released": "2026-01-01",
-    "imdbRating": "7.8"
+    "name": "Detective Conan",
+    "poster": "https://image.tmdb.org/t/p/w500/rRIEFvHRy01OYzmXQBbGeW0Qilc.jpg",
+    "description": "The son of a world famous mystery writer, Jimmy Kudo, has achieved his own notoriety by assisting the local police as a student detective. He has always been able to solve the most difficult of criminal cases using his wits and power of reason.",
+    "background": "https://image.tmdb.org/t/p/w1280/5546GF3zT3yA25ydCz0KlujjRA3.jpg",
+    "released": "1996-01-01",
+    "imdbRating": "8.0"
   }
 ]
