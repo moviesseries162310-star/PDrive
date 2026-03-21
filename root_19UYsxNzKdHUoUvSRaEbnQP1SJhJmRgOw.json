@@ -248,5 +248,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cjD6ww2qIEIAD2hT1zH3zlsd8hk.jpg",
     "released": "2017-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1X7j_VtTzryoiDtJzfbHNBRbmDdIlUtE_",
+    "type": "movie",
+    "name": "Pitch Perfect 2",
+    "poster": "https://image.tmdb.org/t/p/w500/oFBQUufCV4c8WZoNhtGM17p884H.jpg",
+    "description": "The Bellas are back, and they are better than ever. After being humiliated in front of none other than the President of the United States of America, the Bellas are taken out of the Aca-Circuit. In order to clear their name, and regain their status, the Bellas take on a seemingly impossible task: winning an international competition no American team has ever won. In order to accomplish this monumental task, they need to strengthen the bonds of friendship and sisterhood and blow away the competition with their amazing aca-magic! With all new friends and old rivals tagging along for the trip, the Bellas can hopefully accomplish their dreams.",
+    "background": "https://image.tmdb.org/t/p/w1280/bWOfRV1Ubk9SWEDZDDjsmIUCcbZ.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "6.8"
   }
 ]
