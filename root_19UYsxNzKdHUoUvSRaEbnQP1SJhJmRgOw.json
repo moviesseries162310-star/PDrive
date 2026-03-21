@@ -188,5 +188,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
     "released": "2025-01-01",
     "imdbRating": "7.4"
+  },
+  {
+    "id": "gdrive:1Cf5JMH9P8VlFpuZCYqZXSoFwp4GgOAZT",
+    "type": "movie",
+    "name": "Sinners",
+    "poster": "https://image.tmdb.org/t/p/w500/705nQHqe4JGdEisrQmVYmXyjs1U.jpg",
+    "description": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+    "background": "https://image.tmdb.org/t/p/w1280/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "7.5"
   }
 ]
