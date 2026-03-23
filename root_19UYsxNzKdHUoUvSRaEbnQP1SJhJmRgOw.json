@@ -258,5 +258,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/bWOfRV1Ubk9SWEDZDDjsmIUCcbZ.jpg",
     "released": "2015-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1qk3946vmehlHQ2ISPBuwChS0jaBo6zre",
+    "type": "movie",
+    "name": "Dhurandhar: The Revenge",
+    "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    "description": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+    "background": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.6"
   }
 ]
