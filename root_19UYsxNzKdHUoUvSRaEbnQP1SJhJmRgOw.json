@@ -268,5 +268,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
     "released": "2026-01-01",
     "imdbRating": "7.6"
+  },
+  {
+    "id": "gdrive:13UIebadwzU1fRCVpBsURAk20mtLSn14g",
+    "type": "movie",
+    "name": "We Can Do It",
+    "poster": "https://image.tmdb.org/t/p/w500/djol058qA33XRif1OwzcLmSKlDV.jpg",
+    "description": "An anti-war film about the ability of individuals to prevent war.",
+    "background": null,
+    "released": "1970-01-01",
+    "imdbRating": "6.4"
   }
 ]
