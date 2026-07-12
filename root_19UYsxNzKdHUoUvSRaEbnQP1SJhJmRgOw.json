@@ -320,13 +320,23 @@
     "imdbRating": null
   },
   {
-    "id": "gdrive-folder:1rv0ZYUoEuEnTmXRKPBSrrTloU0Z99jd0",
+    "id": "gdrive-folder:1t9tR8WzR6CQpkgcJw0GTnRaj4aWBjxjh",
     "type": "movie",
-    "name": "Sparks of Tomorrow",
-    "poster": "https://image.tmdb.org/t/p/w500/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
-    "description": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
-    "background": "https://image.tmdb.org/t/p/w1280/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+    "name": "I'm Not Afraid",
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+    "description": "10-year-old Miguel stumbles upon a terrifying secret involving a boy trapped in a hole near his home.",
+    "background": "https://image.tmdb.org/t/p/w1280/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
     "released": "2026-01-01",
-    "imdbRating": "8.3"
+    "imdbRating": "8.2"
+  },
+  {
+    "id": "gdrive-folder:1w006Awhfnqf4EcRbuP6efbCpnkzcm3Sb",
+    "type": "movie",
+    "name": "The Apartment Job",
+    "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg",
+    "description": "Desperate for cash, a former gang boss teams up with an aspiring lawyer to steal an apartment complex's reserve fund — only to uncover deep corruption.",
+    "background": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "5.3"
   }
 ]
