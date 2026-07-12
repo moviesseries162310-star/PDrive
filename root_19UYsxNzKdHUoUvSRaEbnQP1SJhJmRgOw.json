@@ -338,5 +338,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/stJcZWrpfT2DjY0K261Q2FpxUkS.jpg",
     "released": "2026-01-01",
     "imdbRating": "5.3"
+  },
+  {
+    "id": "gdrive:1dMWN1JqmmmcZ-lclA1uBoUN9GN_DQcqV",
+    "type": "movie",
+    "name": "Boulevard",
+    "poster": "https://image.tmdb.org/t/p/w500/hAKOp4AHaDiVdDMlobMNCNgJVD7.jpg",
+    "description": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay away. In their 'boulevard,' they find a raw, liberating love. But as his past threatens to destroy them both, Hasley faces a heartbreaking choice: can you save someone who isn't ready to be rescued?",
+    "background": "https://image.tmdb.org/t/p/w1280/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.1"
   }
 ]
