@@ -348,5 +348,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/98uiDns59GUw26SQSCFmuSHTki3.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.1"
+  },
+  {
+    "id": "gdrive-folder:1rv0ZYUoEuEnTmXRKPBSrrTloU0Z99jd0",
+    "type": "movie",
+    "name": "Sparks of Tomorrow",
+    "poster": "https://image.tmdb.org/t/p/w500/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg",
+    "description": "In an alternate past, an unlikely duo team up to look for a missing catalog that could bring electricity to the smoke-filled streets of Kyoto.",
+    "background": "https://image.tmdb.org/t/p/w1280/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.3"
   }
 ]
