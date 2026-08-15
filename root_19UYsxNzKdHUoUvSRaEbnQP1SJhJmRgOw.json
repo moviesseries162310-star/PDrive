@@ -438,5 +438,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:14zyW0cxOB1T3nAJ2lGREe8FY40XB-KyP",
+    "type": "movie",
+    "name": "Close to Me",
+    "poster": null,
+    "description": "Chinese drama directed by Liu Shujuan.",
+    "background": null,
+    "released": "2011-01-01",
+    "imdbRating": null
   }
 ]
