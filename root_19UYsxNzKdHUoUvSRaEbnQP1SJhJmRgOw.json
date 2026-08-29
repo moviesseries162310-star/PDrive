@@ -598,5 +598,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
     "released": "2008-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive:1jiFLQt0NG4WilpaTiREDEPhX0gBDEzWu",
+    "type": "movie",
+    "name": "Doctor Strange in the Multiverse of Madness",
+    "poster": "https://image.tmdb.org/t/p/w500/ddJcSKbcp4rKZTmuyWaMhuwcfMz.jpg",
+    "description": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+    "background": "https://image.tmdb.org/t/p/w1280/lv3TXqhpaIxkclIHbhN2MRMOemQ.jpg",
+    "released": "2022-01-01",
+    "imdbRating": "7.2"
   }
 ]
