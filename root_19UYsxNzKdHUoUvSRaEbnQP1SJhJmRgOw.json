@@ -558,5 +558,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lcyaTfX6KEMpWNnzPoGPKp7LwwC.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.8"
+  },
+  {
+    "id": "gdrive-folder:1tzsImEn6Aqhjw5IgQA1YfpfOIrkJD4GB",
+    "type": "movie",
+    "name": "BLACK TORCH",
+    "poster": "https://image.tmdb.org/t/p/w500/fkZ19fifxAOAxbE2ZJvXGVvDDGs.jpg",
+    "description": "Jiro Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jiro is also able to talk with animals. After a mysterious encounter with an injured cat named Rago, Jiro discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Rago’s powers.",
+    "background": "https://image.tmdb.org/t/p/w1280/ceirDIa8QgeeiFKFnLcQpfAH5V7.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.5"
   }
 ]
