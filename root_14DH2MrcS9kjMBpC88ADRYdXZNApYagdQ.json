@@ -98,5 +98,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sqHiQfHemGXaO22YYjZYR0CswTE.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:156oIeM0XuY34PlxusUShQzhejYu4dCmr",
+    "type": "movie",
+    "name": "Don't Say Good Luck",
+    "poster": "https://image.tmdb.org/t/p/w500/dgTKahWonzVLeN8Lm22WR2S7D0A.jpg",
+    "description": "Sophie Birenbaum is ready for the spotlight as the lead in her high school musical — until she's suddenly facing more drama at home than on the stage.",
+    "background": "https://image.tmdb.org/t/p/w1280/yzdMGn8IRHSGuV8AIzw19wkRU2W.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.2"
   }
 ]
