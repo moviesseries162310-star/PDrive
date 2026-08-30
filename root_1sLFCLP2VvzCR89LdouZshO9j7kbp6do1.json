@@ -78,5 +78,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
     "released": "2026-01-01",
     "imdbRating": "9.0"
+  },
+  {
+    "id": "gdrive-folder:1AFqPaeAQYP3YEZtL48enMuS9zbm00h7K",
+    "type": "movie",
+    "name": "Dr. STONE",
+    "poster": "https://image.tmdb.org/t/p/w500/xbZQ3fDl0y5mt0ARwfeyrgQ4JTw.jpg",
+    "description": "One fateful day, all of humanity was petrified by a blinding flash of light. After several millennia, high schooler Taiju awakens and finds himself lost in a world of statues. However, he’s not alone! His science-loving friend Senku’s been up and running for a few months and he's got a grand plan in mind—to kickstart civilization with the power of science!",
+    "background": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "8.5"
   }
 ]
