@@ -8,5 +8,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/rQmzx7qyoK5YiXJHnv0jdgVlKyl.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.4"
+  },
+  {
+    "id": "gdrive-folder:1cCuIFsyYWtxHCZjH9Exmnl6WhZyIMDjw",
+    "type": "movie",
+    "name": "Demon Slayer: Kimetsu no Yaiba",
+    "poster": "https://image.tmdb.org/t/p/w500/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+    "description": "After a demon attack leaves his family slain and his sister cursed, Tanjiro embarks upon a perilous journey to find a cure and avenge those he's lost.",
+    "background": "https://image.tmdb.org/t/p/w1280/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+    "released": "2019-01-01",
+    "imdbRating": "8.6"
   }
 ]
