@@ -208,5 +208,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg",
     "released": "2008-01-01",
     "imdbRating": "7.7"
+  },
+  {
+    "id": "gdrive:136jUl1P1qTx4_13u7Ek_D_UwKtSCxc42",
+    "type": "movie",
+    "name": "Black Clover: Sword of the Wizard King",
+    "poster": "https://image.tmdb.org/t/p/w500/9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",
+    "description": "As a lionhearted boy who can't wield magic strives for the title of Wizard King, four banished Wizard Kings of yore return to crush the Clover Kingdom.",
+    "background": "https://image.tmdb.org/t/p/w1280/rogeBJK44LtWynOqzMFmEF30T80.jpg",
+    "released": "2023-01-01",
+    "imdbRating": "8.1"
   }
 ]
