@@ -118,5 +118,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iVped1djsF0tvGkvnHbzsE3ZPTF.jpg",
     "released": "2013-01-01",
     "imdbRating": "6.9"
+  },
+  {
+    "id": "gdrive:1ZljVZYgt9hnAFHyRglhXAzc8B5NEx56O",
+    "type": "movie",
+    "name": "Creation of the Gods II: Demon Force",
+    "poster": "https://image.tmdb.org/t/p/w500/dfUCs5HNtGu4fofh83uiE2Qcy3v.jpg",
+    "description": "Taishi Wen Zhong led the army of Shang Dynasty including Deng Chanyu and four generals of the Mo Family to Xiqi. With the help of Kunlun immortals such as Jiang Ziya, Ji Fa led the army and civilians of Xiqi to defend their homeland.",
+    "background": "https://image.tmdb.org/t/p/w1280/61GhkX3C2gWOv2k9uowWjPxDaqI.jpg",
+    "released": "2025-01-01",
+    "imdbRating": "6.4"
   }
 ]
