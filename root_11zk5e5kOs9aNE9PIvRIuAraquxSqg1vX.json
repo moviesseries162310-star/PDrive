@@ -1,0 +1,12 @@
+[
+  {
+    "id": "gdrive:11zk5e5kOs9aNE9PIvRIuAraquxSqg1vX",
+    "type": "movie",
+    "name": "Doctor Strange",
+    "poster": "https://image.tmdb.org/t/p/w500/uGBVj3bEbCoZbDjjl9wTxcygko1.jpg",
+    "description": "After his career is destroyed, a brilliant but arrogant surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+    "background": "https://image.tmdb.org/t/p/w1280/kkoiH8ZWxJ9WSAjOadGtuHUQxbm.jpg",
+    "released": "2016-01-01",
+    "imdbRating": "7.4"
+  }
+]
