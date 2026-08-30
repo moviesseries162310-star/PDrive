@@ -68,5 +68,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/xMNH87maNLt9n2bMDYeI6db5VFm.jpg",
     "released": "2024-01-01",
     "imdbRating": "8.7"
+  },
+  {
+    "id": "gdrive-folder:1t9tR8WzR6CQpkgcJw0GTnRaj4aWBjxjh",
+    "type": "movie",
+    "name": "I'm Not Afraid",
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+    "description": "10-year-old Miguel stumbles upon a terrifying secret involving a boy trapped in a hole near his home.",
+    "background": "https://image.tmdb.org/t/p/w1280/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.0"
   }
 ]
