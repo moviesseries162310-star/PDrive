@@ -148,5 +148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/iWptWHazDCXqEet7gBhZYyL2rTz.jpg",
     "released": "2020-01-01",
     "imdbRating": "5.0"
+  },
+  {
+    "id": "gdrive:1MdqqJAvpbTq4Ui5O6x6vx-nvW_ZNCXm4",
+    "type": "movie",
+    "name": "The Bay",
+    "poster": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+    "description": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary.",
+    "background": "https://image.tmdb.org/t/p/w1280/8OQbUnXkEFtTMAakP6dg7bRvvip.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "5.8"
   }
 ]
