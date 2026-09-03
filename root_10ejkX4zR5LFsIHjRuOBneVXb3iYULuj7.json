@@ -8,5 +8,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/irM3WhxOorkklhx5To9cfG2ktM6.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.3"
+  },
+  {
+    "id": "gdrive-folder:18Mv_VuCtC8KX9qCITT6EsyNiGR0hygRl",
+    "type": "movie",
+    "name": "Dragon Ball Super",
+    "poster": "https://image.tmdb.org/t/p/w500/qEUrbXJ2qt4Rg84Btlx4STOhgte.jpg",
+    "description": "With Majin Buu defeated, Goku has taken a completely new role as...a radish farmer?! With Earth at peace, our heroes have settled into normal lives. But they can’t get too comfortable. Far away, the powerful God of Destruction, Beerus, awakens to a prophecy revealing his demise at the hands of an even more formidable being. When his search for the Saiyan God brings him to Earth, can Goku and his friends take on their strongest foe yet?",
+    "background": "https://image.tmdb.org/t/p/w1280/qA2UwUQbj05aeBMCuC0mHSQ4loE.jpg",
+    "released": "2015-01-01",
+    "imdbRating": "8.2"
   }
 ]
