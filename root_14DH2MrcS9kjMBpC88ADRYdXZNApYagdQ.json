@@ -268,5 +268,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/mnHDUx3tS6Ps69vYfTuy4MaY8sg.jpg",
     "released": "2000-01-01",
     "imdbRating": "6.3"
+  },
+  {
+    "id": "gdrive:1RfiGr0JBUoAZRh4N-1FwEXJKzJvLUF3q",
+    "type": "movie",
+    "name": "The Mandalorian and Grogu",
+    "poster": "https://image.tmdb.org/t/p/w500/7GV5rrUJf0BRUhoh2cyFoeNthlQ.jpg",
+    "description": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+    "background": "https://image.tmdb.org/t/p/w1280/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.5"
   }
 ]
