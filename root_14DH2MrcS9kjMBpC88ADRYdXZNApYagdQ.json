@@ -278,5 +278,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/wFKDH8nAz7l9iyVobjcNAPTrkNz.jpg",
     "released": "2026-01-01",
     "imdbRating": "7.5"
+  },
+  {
+    "id": "gdrive:1fX25I1uxR6ZQ_jbnDgjMoCAtKAY2quwu",
+    "type": "movie",
+    "name": "Shang-Chi and the Legend of the Ten Rings",
+    "poster": "https://image.tmdb.org/t/p/w500/9f2Q0U3IOsLgrI2HkvldwSABZy5.jpg",
+    "description": "Shang-Chi must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization.",
+    "background": "https://image.tmdb.org/t/p/w1280/r7K6Xt0RX4Mw0cAbZVw5cyb1Tux.jpg",
+    "released": "2021-01-01",
+    "imdbRating": "7.5"
   }
 ]
