@@ -28,5 +28,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/oUsm3pq6rUga7lVGQFS3g84etVE.jpg",
     "released": "2017-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:17_ERFdhzBxgMRsF7czUQ_iIFLviG8pGC",
+    "type": "movie",
+    "name": "Smoking Behind the Supermarket with You",
+    "poster": "https://image.tmdb.org/t/p/w500/n8ZvVflzDKN3vXe85F1KdC5CFf9.jpg",
+    "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”",
+    "background": "https://image.tmdb.org/t/p/w1280/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.0"
   }
 ]
