@@ -18,5 +18,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/sqHiQfHemGXaO22YYjZYR0CswTE.jpg",
     "released": "2021-01-01",
     "imdbRating": "6.5"
+  },
+  {
+    "id": "gdrive:1OzmX9XOB5TaKj_O1cx4gX12mZYzotamB",
+    "type": "movie",
+    "name": "Demon Slayer: Kimetsu no Yaiba - Infinity Castle 2",
+    "poster": "https://image.tmdb.org/t/p/w500/8uYxx23KyDnbDkA3eQSNECVeOiS.jpg",
+    "description": "Plot TBA. The second installment in the Infinity Castle story arc.",
+    "background": "https://image.tmdb.org/t/p/w1280/uj34SgTkO994yU1KckBHvzNjfHV.jpg",
+    "released": null,
+    "imdbRating": null
   }
 ]
