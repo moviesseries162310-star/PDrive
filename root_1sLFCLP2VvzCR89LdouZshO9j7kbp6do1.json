@@ -88,5 +88,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lN13BPAEnc5iXmoxxBQHOZ1ScfZ.jpg",
     "released": "2019-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1XB7bhEi-ilZrlTREGGpf76k5sHCE6uRY",
+    "type": "movie",
+    "name": "Medcezir",
+    "poster": "https://image.tmdb.org/t/p/w500/gQw5nPY0Z0ZGN0yatzPwmdzNTQ7.jpg",
+    "description": "Yaman, who lives in the suburb of Tozludere (Istanbul), is arrested and put in jail with his brother because his brother decided to steal a car at a petrol station. Until that day he tried to change his destiny by working hard to earn a good life. That evening he was unwillingly introduced to crime and his clean dossier was tainted. He meets a rich lawyer, Selim Serez.",
+    "background": "https://image.tmdb.org/t/p/w1280/4zuLi90yC0S1c7uwHO0dyU7kIYX.jpg",
+    "released": "2013-01-01",
+    "imdbRating": "7.0"
   }
 ]
