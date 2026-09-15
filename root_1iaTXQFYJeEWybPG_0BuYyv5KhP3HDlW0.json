@@ -28,5 +28,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/uj34SgTkO994yU1KckBHvzNjfHV.jpg",
     "released": null,
     "imdbRating": null
+  },
+  {
+    "id": "gdrive:1Ml_GE9VluDNegjzb4GOCbuDsxBE9hzZ4",
+    "type": "movie",
+    "name": "Pinocchio: Unstrung",
+    "poster": "https://image.tmdb.org/t/p/w500/eUJXk3bTvLBi5Zcb0BCedZU7lVL.jpg",
+    "description": "Influenced by a sinister Cricket and created by Geppetto, Pinocchio launches a violent crusade to carve himself into a real boy like his brother James, one piece at a time.",
+    "background": "https://image.tmdb.org/t/p/w1280/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.6"
   }
 ]
