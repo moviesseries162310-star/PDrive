@@ -38,5 +38,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dNKFETDDujxm2PUN873Jwiw5VML.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.6"
+  },
+  {
+    "id": "gdrive:1Ewlxe1tCdLfR6orMpD03BdMp_EJP8NJN",
+    "type": "movie",
+    "name": "PAW Patrol: The Dino Movie",
+    "poster": "https://image.tmdb.org/t/p/w500/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+    "description": "The Paw Patrol lands on a mysterious dinosaur island after a storm, where they meet Rex, a stranded pup. When Humdinger's reckless mining triggers a volcano, the team faces their biggest rescue mission yet to save the island.",
+    "background": "https://image.tmdb.org/t/p/w1280/6TSxLmwT7j1ugtKi8NyMmdzWAGj.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "7.8"
   }
 ]
