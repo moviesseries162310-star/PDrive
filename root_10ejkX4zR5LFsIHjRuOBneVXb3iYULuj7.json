@@ -138,5 +138,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/qpin8cASXEVtwhzNsprHYFiOAGk.jpg",
     "released": "2020-01-01",
     "imdbRating": "8.6"
+  },
+  {
+    "id": "gdrive-folder:1y8iwc-jtvngSgU36Ua_PCLqZDbFcPn0z",
+    "type": "movie",
+    "name": "The Drops of God",
+    "poster": "https://image.tmdb.org/t/p/w500/e0HIphKTbM0YjWCASdCsjYtESHG.jpg",
+    "description": "When world-renowned wine critic Toyotaka Kanzaki passes away, he leaves behind an enviable collection. The will promises his estate to whoever correctly guesses the brand and year of the 12 greatest wines he selected, and the legendary wine that stands atop them all, \"Drops of God.\" The challengers are Toyotaka's son, Shizuku Kanzaki, and a young critic, Issei Tomine, who was adopted by Toyotaka.",
+    "background": "https://image.tmdb.org/t/p/w1280/dWhXUMlQuSoASikDLbUfKyPtGeB.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.7"
   }
 ]
