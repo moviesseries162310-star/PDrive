@@ -148,5 +148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/dWhXUMlQuSoASikDLbUfKyPtGeB.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.7"
+  },
+  {
+    "id": "gdrive-folder:16x74QmPhwKL7R698YiLMYRfcmeoI8rBH",
+    "type": "movie",
+    "name": "Overgeared",
+    "poster": "https://image.tmdb.org/t/p/w500/94GLmulA9qVGsuo9kLpVKi01E2Z.jpg",
+    "description": "Escape everyday life in SATISFY, a VR game where players earn real-world fame and fortune. One player, Grid, can’t seem to catch a break in the game or in real life. That all changes when a challenging quest leads him to becoming the heir to a legendary blacksmith. His stats are reset to zero, but he’s leveling up and crafting some seriously god-tier goods.",
+    "background": "https://image.tmdb.org/t/p/w1280/745xqHbiUWwO51TM60MXRCR4Onm.jpg",
+    "released": "2026-01-01",
+    "imdbRating": null
   }
 ]
