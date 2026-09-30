@@ -418,5 +418,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/lDHfyYkTIWCWWdbHkLZwRXQx3Ul.jpg",
     "released": "2026-01-01",
     "imdbRating": "6.8"
+  },
+  {
+    "id": "gdrive:1uRnIQ84KZ2O9vacz-iPsnWd8y5q0qOsV",
+    "type": "movie",
+    "name": "Hokum",
+    "poster": "https://image.tmdb.org/t/p/w500/x6rHcQFiYcczLQPrmxXPAicm54E.jpg",
+    "description": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+    "background": "https://image.tmdb.org/t/p/w1280/qY7zVZ7liULhfRoXg4c9Xl83LcR.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "6.8"
   }
 ]
