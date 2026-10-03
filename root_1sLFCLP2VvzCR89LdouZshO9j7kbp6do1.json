@@ -128,5 +128,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.0"
+  },
+  {
+    "id": "gdrive-folder:10FGUjQCaxIdphaIa2Y8tJDUQ8Scq1SFs",
+    "type": "movie",
+    "name": "I Would Rather Die",
+    "poster": "https://image.tmdb.org/t/p/w500/wCFvuoNaL4nk7HCFiH7uEm2CDEp.jpg",
+    "description": "The protagonist Archie, considered the school loser, is bitten by a zombie and finds himself at the center of a mission to save the city alongside his friends Cris and Brenda.",
+    "background": "https://image.tmdb.org/t/p/w1280/x91V52Ew4WFoYOryVuFMNuFPZDC.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "9.3"
   }
 ]
