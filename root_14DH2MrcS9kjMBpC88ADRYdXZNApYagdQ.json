@@ -478,5 +478,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/7TYITrR804tLITNur3b8VLCK6tw.jpg",
     "released": "2003-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive:1zhA6EXqMYNi2E-y-etx0TEyfHzDS_8Wi",
+    "type": "movie",
+    "name": "Logan",
+    "poster": "https://image.tmdb.org/t/p/w500/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg",
+    "description": "In the near future, a weary Logan cares for an ailing Professor X in a hideout on the Mexican border. But Logan's attempts to hide from the world and his legacy are upended when a young mutant arrives, pursued by dark forces.",
+    "background": "https://image.tmdb.org/t/p/w1280/4DZxWNSAyksN6N3JkvpJ53Yq6zU.jpg",
+    "released": "2017-01-01",
+    "imdbRating": "7.8"
   }
 ]
