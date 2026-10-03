@@ -148,5 +148,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
     "released": "2025-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1tD97nzNICxZhxN504WrD6ZnakDrh-pwf",
+    "type": "movie",
+    "name": "Red Queen",
+    "poster": "https://image.tmdb.org/t/p/w500/lk7LVXYSOO5rReR2jzLo8Le3cO1.jpg",
+    "description": "A gifted woman's intellect brings chance to lead covert European police force. But it backfires, costing her everything. Following murder at her home and kidnapped heiress, her ex-supervisor enlists a policeman's aid to reinstate her.",
+    "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
+    "released": "2024-01-01",
+    "imdbRating": "7.0"
   }
 ]
