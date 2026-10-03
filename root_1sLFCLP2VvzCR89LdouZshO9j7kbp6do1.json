@@ -158,5 +158,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/2SJ6OOyK8tWaKF7W7PzYxOKKStZ.jpg",
     "released": "2024-01-01",
     "imdbRating": "7.0"
+  },
+  {
+    "id": "gdrive-folder:1qzqMJKt_o1rWB63mUFK562CBB_8_8b8W",
+    "type": "movie",
+    "name": "East of Eden",
+    "poster": "https://image.tmdb.org/t/p/w500/axdUor6gLMTrrB1UF4Qfy0TTSyX.jpg",
+    "description": "In the early 1900s, a fiercely independent woman drives a rift between two brothers, igniting a saga that unfolds across two generations.",
+    "background": "https://image.tmdb.org/t/p/w1280/70RZX7kNjA0Qjn6HigB1oMvFJ8R.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.2"
   }
 ]
