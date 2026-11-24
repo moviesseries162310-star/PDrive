@@ -28,5 +28,15 @@
     "background": "https://image.tmdb.org/t/p/w1280/fNcpHmuZLKoyhNMBEzdqzX8iIvg.jpg",
     "released": "2026-01-01",
     "imdbRating": "8.5"
+  },
+  {
+    "id": "gdrive-folder:1IQ2mIhIyKj-BCAY_mtoAmWIPgCfhSdmq",
+    "type": "movie",
+    "name": "Doctor X: Mafia in White",
+    "poster": "https://image.tmdb.org/t/p/w500/nDDVzQfv95PGwj9nV2fJvUrkcvU.jpg",
+    "description": "In a hospital dominated by ego and corruption, an enigmatic but brilliant surgeon arrives — taking on seemingly impossible cases amid fierce opposition.",
+    "background": "https://image.tmdb.org/t/p/w1280/mDYIV71RL3mkaW8IfSGNthuVB7l.jpg",
+    "released": "2026-01-01",
+    "imdbRating": "8.6"
   }
 ]
